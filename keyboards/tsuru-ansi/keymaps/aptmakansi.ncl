@@ -45,7 +45,7 @@ let ki = {
 } in
 
 let layouts = {
-  APTMAK = "VWFPBJLUY'RSTHKXNAIOCGDEM,.",
+  APTMAK = "VWFPBJLUY'RSTHKXNAIOCGDEM,.-",
 } in
 
 let make_hrm = fun key_idx =>
